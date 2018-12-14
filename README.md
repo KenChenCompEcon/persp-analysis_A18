@@ -84,10 +84,10 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 | Nov. 14 | W | Research collaboration       | [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Rsrch.pdf), [HJ2018](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/UnitTesting_Ch7.pdf) | [A7](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A7/Assign7.pdf) |
 | Nov. 19 | M | Ethics                       | S2018, Ch. 6, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Ethics.pdf) |    |
 | Nov. 21 | W | Ethics                       | BF2015, Z2010 | [A8](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A8/Assign8.pdf) |
-| Nov. 26 | M | CSS: Sociology               |              |    |
-| Nov. 28 | W | CSS: Political Science       | B2018, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_CompPolSci.pdf) | A9 |
-| Dec.  3 | M | CSS: Psychology              |              |    |
-| Dec.  5 | W | CSS: Economics               |              |    |
+| Nov. 26 | M | CSS: Sociology               | KTE2018, MDSW2017, Slides |    |
+| Nov. 28 | W | CSS: Political Science       | B2018, GST2018, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_CompPolSci.pdf) | [A9](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A9/Assign9.pdf) |
+| Dec.  3 | M | CSS: Psychology              | SMBMYF2018, YSCBGS2014, Slides |    |
+| Dec.  5 | W | CSS: Economics               | A2018, BS2017, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_CompEcon.pdf) |    |
 
 
 ## References
@@ -96,10 +96,12 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [AR2014] Alcott, Hunt and Todd Rogers, "The Short-run and Long-run Effects of Behavioral Interventions: Experimental Evidence from Energy Conservation," *American Economic Review*, 104:10 (Oct. 2014), pp. 3,003-3,037.
 * [A1990] Angrist, Joshua D., "Lifetime Earnings and the Vietnam Era Draft Lottery: Evidence from Social Security Administrative Records," *American Economic Review*, 80:3 (1990), pp. 313-336.
 * [AH2012] Ansolabehere, Stephen and Eitan Hersh, "Validation: What Big Data Reveal about Survey Misreporting and the Real Electorate," *Political Analysis*, 20:3, (2012), pp. 437-459.
+* [A2018] Athey, Susan, "[The Impact of Machine Learning on Economics](https://www.nber.org/chapters/c14009.pdf)," in *The Economics of Artificial Intelligence: An Agenda*, eds. Ajay K. Agrawal, Joshua Gans, and Avi Goldfarb, National Bureau of Economic Research (forthcoming, 2018).
 * [B2009] Beazley, David M., *Python Essential Reference*, 4th edition, Addison-Wesley (2009).
 * [BKV2010] Bell, Robert M., Yehuda Koren, and Chris Volinsky, "All Together Now: A Perspective on the Netflix Prize," *Chance*, 23:1 (2010), pp. 24-29.
 * [B2014] Blumenstock, Joshua (2014), "[Calling for Better Measuremenet: Estimating an Individual's Wealth and Well-Being from Mobile Phone Transaction Records](http://escholarship.org/uc/item8zs63942)," Presented at KDD--Data Science for Social Good 2014, New York.
 * [B2018] Bonica, Adam, "Inferring Roll Call Scores from Campaign Contributions Using Supervised Machine Learning," *American Journal of Political Science*, (forthcoming, 2018). [[link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2732913)]
+* [BS2017] Brumm, Johannes and Simon Scheidegger, "[Using Adaptive Sparse Grids to Solve High-dimensional Dynamic Models](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA12216)," *Econometrica*, 85:5, pp. 1575-1612 (Sep. 2017)
 * [BF2015] Burnett, Sam and Nick Feamster, "Encore: Lightweight Measurement of Web Censorship with Cross-Origin Requests," in *Proceedings of the 2015 ACM Conference on Special Interest Groups on Data Communication*, ACM, London (2015), pp. 653-667.
 * [CE2015] Canann, Taylor J. and Richard W. Evans, "Determinants of Short-term Lender Location and Interest Rates," *Journal of Financial Services Research,* 48:3, (Dec. 2015) pp. 235-262. [[link to paper](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/CanannEvans2015.pdf)]
 * [CS2014] Chacon, Scott and Ben Straub, *Pro Git: Everything You Need to Know about Git*, 2nd Edition, Apress, 2014. [Free online version](https://git-scm.com/book/en/v2)
@@ -108,22 +110,27 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [EKLS2015] Einav, Liran, Theresa Kuchler, Jonathan Levin, Neel Sundaresan, "Assessing Sale Strategies in Online Markets Using Matched Listings," *American Economic Journal: Microeconomics*, 7:2 (2015), pp. 215-247.
 * [EJQ2016] Evans, Richard W., Kenneth L. Judd, and Kramer Quist, "Big Data Techniques as a Solution to Theory Problems," in *Conquering Big Data with High Performance Computing*, ed. Ritu Arora, Springer (2016). [[link to paper](https://sites.google.com/site/rickecon/BigDataChap.pdf)]
 * [F2015] Farber, Henry S., "Why You Can't Find a Taxi in the Rain and Other Labor Supply Lessons from Cab Drivers," *Quarterly Journal of Economics*, 130:4 (2015), pp. 1975-2026.
+* [GST2018] Gentzkow, Matthew, Jesse M. Shapiro, and Matt Taddy, "[Measuring Group Differences in High-dimensional Choices: Mothod and Application to Congressional Speech](http://web.stanford.edu/~gentzkow/research/politext.pdf)," NBER Working Paper \#22423 (August 2018).
 * [G2018] Gopalan, Sushmita, "Predicting Infant Mortality: Minimizing False Negatives," unpublished MACSS thesis (2018). [[link to paper](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/Gopalan2018.pdf)]
 * [HJ2018] Humpherys, Jeffrey and Tyler J. Jarvis, "Unit Testing," Ch. 7 *Labs for Foundations of Applied Mathematics: Python Essentials*, Creative Commons, Open Access (2018). [[link here](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/UnitTesting_Ch7.pdf)]
 * [KW2009] Kossinets, Gueorgi and Duncan J. Watts, "Origins of Homophily in an Evolving Social Network," *American Journal of Sociology* 115:2, (2009), pp. 405-450.
+* [KTE2018] Kozlowski, Austin C.,  Matt Taddy, and James A. Evans, "[The Geometry of Culture: Analyzing Meaning through Word Embeddings](https://arxiv.org/pdf/1803.09288.pdf)," working paper, Knowledge Lab, University of Chicago, under review (2018).
 * [L2010] Langtangen, Hans Petter, *Python Scripting for Computational Science*, Texts in Computational Science and Engineering, 3rd edition, Springer (2010).
 * [L2006] List, John A., "*Friend or Foe?* A Natural Experiment of the Prisoner's Dilemma," *Review of Economics and Statistics*, 88:3 (August 2006), pp. 463-471.
 * [L2013] Lutz, Mark, *Learning Python*, 5th edition, O'Reilly Media, Inc. (2013).
+* [MDSW2017] Mao, Andrew, Lili Dworkin, Siddharth Suri, and Duncan J. Watts, "[Resilient Cooperators Stabilize Long-run Cooperation in the Finitely Repeated Prisoner’s Dilemma](https://www.sciencedirect.com/science/article/pii/S1053811914002353)," *Nature Communications*, p. 13800 (January 2017).
 * [MM2009] Mas, Alexandre and Enrico Moretti, "Peers at Work," *American Economic Review*, 99:1 (2009), pp. 112-145.
 * [M2018] McKinney, Wes, *Python for Data Analysis*, 2nd edition, O'Reilly Media, Inc. (2018).
 * [M2002] Moretti, Sabrina, "Computer Simulation in Sociology: What Contribution?" *Social Science Computer Review*, 20:1 (Spring 2002), pp. 43-57.
 * [RW2000] Rosenzweig, Mark R. and Kennith I. Wolpin, "Natural 'Natural Experiments' in Economics," *Journal of Economic Literature*, 38:4 (Dec. 2000), pp. 827-874.
+* [SMBMYF2018] Sanchez, Alessandro, Stephan C. Meylan, Mika Braginsky, Kyle E. MacDonald, Daniel Yurovsky, and Michael C. Frank, "[childes-db: a Flexible and Reproducible Interface to the Child Language Data Exchange](https://callab.uchicago.edu/papers/smbmyf-brm-underreview.pdf)," under review (2018)
 * [SNCGG2007] Schultz, P. Wesley, Jessica M. Nolan, Robert B. Cialdini, Noah J. Goldstein, and Vladas Griskevicius, "The Constructive, Destructive, and Reconstructive Power of Social Norms," *Psychological Science*, 18:5 (2007), pp. 429-434.
 * [S2014] Sugie, Naomi F., "Finding Work: A Smartphone Study of Job Searching, Social Contacts, and Wellbeing After Prison,"" PhD Thesis, Princeton University (2014). [[link here](http://dataspace.princeton.edu/jspui/handle/88435/dsp011544br32k)]
 * [S2016] Sugie, Naomi F., "Utilizing Smartphones to Study Disadvantaged and hard-to-Reach Groups," *Sociological Methods & Research*, January (2016).
 * [WRGG2015] Wang, Wei, David Rothschild, Sharad Goel, and Andrew Gelman, "Forecasting Elections with Non-Representative Polls," *International Journal of Forecasting*, 31:3 (2015) pp. 980-991.
 * [W2014] Watts, Duncan J., "Common Sense and Sociological Explanations," *American Journal of Sociology*, 120:2 (Sep. 2014), pp. 313-351.
 * [WWE2018] Wu, Lingfei, Dashun Wang, and James A. Evans, "Large Teams Have Developed Science and Technology; Small Teams Have Disrupted It," working paper, 2018. [[link here](https://arxiv.org/pdf/1709.02445.pdf)]
+* [YSCBGS2014] Yourganov, Grigori, Tanya Schmah, Nathan W. Churchill, Marc G. Berman, Cheryl L. Grady, and Stephen C. Strother, "[Pattern Classification of fMRI Data: Applications for Analysis of Spatially Distributed Cortical Networks](https://www.sciencedirect.com/science/article/pii/S1053811914002353)," *NeuroImage*, 96:1, pp. 117-132 (August 2014).
 * [Z2010] Zimmer, Michael, "But the Data is Already Public: On the Ethics of Research in Facebook," *Ethics and Information Technology*, 12:4 (2010), pp. 313-325.
 
 
